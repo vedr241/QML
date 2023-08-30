@@ -27,7 +27,9 @@ Follow these steps to clone and execute the project on your local machine:
     pip install numpy
     pip install pandas
     pip install matplotlib
+    pip install seaborn
     pip install scikit-learn
+    
     ```
 
 5. **Launch Jupyter Notebook:**
